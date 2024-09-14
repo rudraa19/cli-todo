@@ -96,13 +96,3 @@ program.command("delete")
     })
 
 program.parse();
-
-
-/**
- * show -
- * add -
- * complete - 
- * clear - 
- * delete
- * save - 
- */
